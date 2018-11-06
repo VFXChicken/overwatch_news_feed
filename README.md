@@ -7,3 +7,5 @@ RSS/Atom feeds to keep up with updates to Overwatch
 ## Generate Your Own Feed
 
 If you'd like to generate your own RSS feed you can use the project over at [fbis251/overwatch_feed_generator](https://github.com/fbis251/overwatch_feed_generator)
+
+- Jack
